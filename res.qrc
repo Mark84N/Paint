@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/circle.png</file>
+        <file>resource/line.png</file>
+        <file>resource/rect.png</file>
+        <file>resource/brush.png</file>
+        <file>resource/palette.png</file>
+        <file>resource/width.png</file>
+        <file>resource/redo.png</file>
+        <file>resource/undo.png</file>
+        <file>resource/clear.png</file>
+        <file>resource/info.png</file>
+        <file>resource/save.png</file>
+        <file>resource/settings.png</file>
+        <file>resource/icon.png</file>
+    </qresource>
+</RCC>
